@@ -1,5 +1,7 @@
 # NasaRobots
 
+[![Build Status](https://travis-ci.org/BrVer/nasa_robots.svg)](https://travis-ci.org/BrVer/nasa_robots)
+
 Simple ruby solution of 'NASA rowers' task
 
 ## Installation
